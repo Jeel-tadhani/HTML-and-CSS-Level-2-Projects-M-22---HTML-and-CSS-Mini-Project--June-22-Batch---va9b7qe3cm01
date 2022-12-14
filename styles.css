@@ -12,12 +12,10 @@ body{
     height: 75vh;
     display: flex;
     flex-direction: row;
-    justify-content:center;
-    align-items: center;
     border-radius: 1.5%;
     background-color: white;
     position: relative;
-    overflow: auto;
+    overflow:auto;
 }
 
 .diva{
